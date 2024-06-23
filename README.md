@@ -2,7 +2,7 @@
 The Netflix Clone project is a front-end web development exercise aimed at replicating the visual and interactive aspects of the popular streaming service, Netflix. This project focuses on using HTML and CSS to create a responsive and aesthetically pleasing web page that mimics the user interface and user experience of Netflix. It's an excellent way to practice and demonstrate proficiency in HTML and CSS while understanding the fundamentals of web design and layout.
 
 # Features
-Responsive Design: The clone is designed to be fully responsive, ensuring a seamless experience across various devices, including desktops, tablets, and smartphones.
+"**Responsive Design**": The clone is designed to be fully responsive, ensuring a seamless experience across various devices, including desktops, tablets, and smartphones.
 
 User Interface (UI) Elements: Key UI elements such as the navigation bar, carousel sliders, movie thumbnails, and footer are recreated to closely match the Netflix interface.
 
